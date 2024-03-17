@@ -17,8 +17,6 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[🇸 🇦 🇳 🇩 🇪 🇪 🇵 🇦](https://t.me/Sandeepa_Dilshan)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
-
-
 <h2 align="Left">:hammer_and_wrench: Technologies and Tools I use :</h2> <br>
 
 <p align="Center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
@@ -37,11 +35,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"></p><br>
-
-
+</p>
 <h2 align="Left">:heart: Let's get connected :</h2><br>
-
 <p align="Left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sandeepa-bandara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandeepa-bandara/" height="30" width="40" /></a>
 <a href="https://twitter.com/sandeepa_db" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeepa_db" height="30" width="40" /></a>
