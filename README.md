@@ -11,7 +11,7 @@
 
 -  <img alt="GIF" src="https://github.com/sandeepadev/sandeepadev/blob/main/images/Developer.gif" width="33" /> &nbsp;I’m an Undergratuate at the **University of Colombo School of Computing (Sri Lanka)**. 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="18%" /><br>
-- <img src="https://github.com/sandeepadev/sandeepadev/blob/main/images/hyperkitty.gif" width="24" />&nbsp;&nbsp;&nbsp;  Interested in **Software Developing**,**Quality Assurance** & **DevOps**. <br>
+- <img src="https://github.com/sandeepadev/sandeepadev/blob/main/images/hyperkitty.gif" width="24" />&nbsp;&nbsp;&nbsp;  Interested in **Software Developing**, **Quality Assurance** & **DevOps**. <br>
 - <img src="https://github.com/sandeepadev/sandeepadev/blob/main/images/message.gif" width="35" />&nbsp;&nbsp;Reach me out **sandeepa.d.bandara@gmail.com**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="30" /> &nbsp; Find me on Telegram: **[🇸 🇦 🇳 🇩 🇪 🇪 🇵 🇦](https://t.me/Sandeepa_Dilshan)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="16" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br><br>
